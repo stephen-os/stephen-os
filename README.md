@@ -1,6 +1,6 @@
 ```bash
 stephen-os@github:~$ whoami
-stephen
+stephen-os
 
 stephen-os@github:~$ cat /proc/stephen-os/status
 Name:                   Stephen Tyler Watson
