@@ -62,5 +62,3 @@ Solar system simulator with gravitational physics built on Lumina's 3D renderer
 **Web Development:** React • Next.js • Node.js • PostgreSQL
 
 **Tools & Other:** Git • Linux • Algorithm Design • System Architecture
-
----
