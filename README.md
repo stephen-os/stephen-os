@@ -1,4 +1,4 @@
-# Stephen Tyler Watson
+# Stephen Watson
 
 **Software Engineer**
 
@@ -64,7 +64,3 @@ Solar system simulator with gravitational physics built on Lumina's 3D renderer
 **Tools & Other:** Git • Linux • Algorithm Design • System Architecture
 
 ---
-
-## Let's Connect
-
-📧 [imstephentylerwatson@gmail.com](mailto:imstephentylerwatson@gmail.com)
